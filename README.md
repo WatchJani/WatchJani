@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=watchjani" alt="watchjani" /></a> </p>
 
-<img align="right" alt="Coding" width="400" src="https://c.tenor.com/qJ5evVs-_uUAAAAC/coding.gif"/>
+<img align="right" alt="Coding" width="400" src="https://66.media.tumblr.com/17dd84fa820ae8b57a86cb07b899bc7c/tumblr_oezv38ikwg1sznfdio1_500.gif"/>
 
 - 🔭 I’m currently working on [Score Tracker](https://scoretracker-league.netlify.app/)
 
